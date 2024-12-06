@@ -1,3 +1,4 @@
+![logo](https://github.com/Onkarmadane/Onkarmadane/blob/main/linkedin%20bg.png)
 <h1 align="center">Hi 👋, I'm Onkar</h1>
 <h3 align="center">Full-stack developer | Passionate about clean code and creativity</h3>
 
